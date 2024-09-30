@@ -42,6 +42,12 @@ console.log(`Distância do caminhão até Ribeirão Preto: ${resultado.distancia
 console.log(`O carro está mais próximo de Ribeirão Preto? ${resultado.carroMaisProximo ? "Sim" : "Não"}`);
 
 /*
+Resposta:
+
+Distância do carro até Ribeirão Preto: 36.32 km
+Distância do caminhão até Ribeirão Preto: 66.18 km
+O carro está mais próximo de Ribeirão Preto? Sim
+
 Justificativa
 
 Conclusão

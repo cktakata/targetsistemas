@@ -11,8 +11,6 @@ imprimir(SOMA);
 
 
 Ao final do processamento, qual será o valor da variável SOMA?
-
-Resposta: 77
 */
 
 (() => {
@@ -26,3 +24,9 @@ Resposta: 77
   }
   console.log(SOMA);
 })();
+
+/*
+
+Resposta: 77
+
+*/

@@ -66,3 +66,10 @@ const resultado = calcularFaturamento(faturamentoDiario);
 console.log(`Menor Faturamento: ${resultado.menorValor}`);
 console.log(`Maior Faturamento: ${resultado.maiorValor}`);
 console.log(`Dias acima da média: ${resultado.diasAcimaDaMedia}`);
+
+/*
+RESPOSTA (Para os valores acima)
+Menor Faturamento: 1500
+Maior Faturamento: 4000
+Dias acima da média: 3
+*/
